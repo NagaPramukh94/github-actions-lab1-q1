@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-This is a test
+This is a test run
